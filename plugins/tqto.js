@@ -21,6 +21,8 @@ Irwan:
 https://github.com/irwanx
 Rasel:
 https://github.com/raselcomel
+DaniBotz-Ofc:
+https://github.com/Bot-Mdnew
 
 \`\`\`${conn.user.name}\`\`\`
 `
