@@ -10,9 +10,9 @@ global.branx = 'master'
 global.wm = '© DaniBotz-Ofc'
 global.wmtitle = '🌹 DaniBotz-Ofc'
 global.wmbody = '🍃 𝑏𝑦 ༆ 𝑟𝑎𝑠𝑒𝑙  ཽ ྀ ྭ ྱ ྲ ཻ' 
-global.wmlink = 'https://www.instagram.com/rasel.ganz'
+global.wmlink = 'https://github.com/Bot-Mdnew'
 global.linkgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
-global.linkmed = 'https://www.instagram.com/p/CH1A1c9J5pY/?utm_medium=copy_link'
+global.linkmed = '"_"'
 
 //=========== Process Bot ============//
 global.wait = 'Tunggu sebentar ya sayang'
@@ -20,7 +20,7 @@ global.eror = 'Maaf terjadi kesalahan, silahkan coba lagi nanti'
 
 //========= Url Template Button =========//
 global.dTux = 'WEBSITE'
-global.uRlx = 'bit.ly/AcellComel' //''
+global.uRlx = 'https://github.com/Bot-Mdnew' //''
 //========= Call Template Button =========//
 global.dTcx = 'Add Me'
 global.nUmx = '+62 812-5154-9899' 
