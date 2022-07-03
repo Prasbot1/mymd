@@ -10,7 +10,7 @@ global.branx = 'master'
 global.wm = '© DaniBotz-Ofc'
 global.wmtitle = '🌹 DaniBotz-Ofc'
 global.wmbody = '🍃 𝑏𝑦 ༆ 𝑟𝑎𝑠𝑒𝑙  ཽ ྀ ྭ ྱ ྲ ཻ' 
-global.wmlink = 'https://github.com/Bot-Mdnew'
+global.wmlink = 'Www.instagram.com'
 global.linkgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.linkmed = '"_"'
 
