@@ -74,7 +74,7 @@ const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
   logger: P({ level: 'silent' }),
-  browser: ['My-MD by rasel', 'IOS', '4.1.0'], 
+  browser: ['Myi-MD by rasel', 'IOS', '4.1.0'], 
   version: [2, 2204, 13],
 }
 
