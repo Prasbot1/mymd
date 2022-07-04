@@ -7,15 +7,15 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 global.repox = 'raselcomel/RxR-Bot'
 global.branx = 'master'
 //=========== Watermark & Url ==========//
-global.wm = '© DaniBotz-Ofc'
-global.wmtitle = '🌹 DaniBotz-Ofc'
+global.wm = '© Prazz-Ofc'
+global.wmtitle = '🌹 PraszBotz-Ofc'
 global.wmbody = '🍃 𝑏𝑦 ༆ 𝑟𝑎𝑠𝑒𝑙  ཽ ྀ ྭ ྱ ྲ ཻ' 
 global.wmlink = 'Www.instagram.com'
-global.linkgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
+global.linkgc = 'https://chat.whatsapp.com/Lr6KNr05PEHAy7romaot9N'
 global.linkmed = '"_"'
 
 //=========== Process Bot ============//
-global.wait = 'Tunggu sebentar ya sayang'
+global.wait = 'Wait a Minute Seconds'
 global.eror = 'Maaf terjadi kesalahan, silahkan coba lagi nanti'
 
 //========= Url Template Button =========//
@@ -23,7 +23,7 @@ global.dTux = 'WEBSITE'
 global.uRlx = 'https://github.com/Bot-Mdnew' //''
 //========= Call Template Button =========//
 global.dTcx = 'Add Me'
-global.nUmx = '+62 812-5154-9899' 
+global.nUmx = '+62 896-6674-7744' 
 //================ Buttons ================//
 global.bTnx = [['DASHBOARD', '.say blum pasang:v']] //buttons map
 global.mediaMenu = 'https://telegra.ph/file/505b2a03d98bb3b8680e7.jpg'
@@ -55,7 +55,7 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
   var sticker_name = ''
-  var sticker_author = '               ig\n🔥 @Dani_Official 🔥'
+  var sticker_author = '               ig\n🔥 @Prasz_Official 🔥'
  } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -74,7 +74,7 @@ const cpack = fs.readFileSync("lib/colong.json")
 const ctickerpack = JSON.parse(cpack)
 if (ctickerpack.cpackname == '') {
   var colong_name = 'sikilinsut olang nylong tikell'
-  var colong_author = 'Ciss 📸\n\n\n\n\n\n\n\n\n\n\n\n@Dani_Offcial'
+  var colong_author = 'Ciss 📸\n\n\n\n\n\n\n\n\n\n\n\n@Prasz_Offcial'
  } else {
   var colong_name = ctickerpack.cpackname
   var colong_author = ctickerpack.cauthor
