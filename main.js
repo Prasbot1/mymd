@@ -138,8 +138,8 @@ global.reloadHandler = function (restatConn) {
   }
   let more = String.fromCharCode(8206)
   let readMore = more.repeat(4001)
-  conn.welcome = `Hi, @user!\nWelcome in group @subject\n\n${readMore}@desc`
-  conn.bye = 'Goodbye @user!\n\nKalo balik lagi nitip seblak yaah!'
+  conn.welcome = `Yahh,BEBANYA Nambah Deh Selamat Join Wahai Beban  @user!\nWelcome in group @subject\n\n${readMore}@desc`
+  conn.bye = 'Yuhuu Beban Keluar Beban Berkurang 1 @user!\n\nKalo balik lagi nitip seblak yaah!'
   conn.spromote = '@user is now Admin!'
   conn.sdemote = '@user is not an Admin!'
   conn.sDesc = 'Group description has been changed to\n@desc'
